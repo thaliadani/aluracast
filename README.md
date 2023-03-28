@@ -20,6 +20,6 @@
   <br>
   <h2>DESKTOP</h2>
 
- ![image](https://user-images.githubusercontent.com/31187727/228088089-1117f97e-0d07-459c-bb84-6e5db5555c46.png)
+ ![image](https://user-images.githubusercontent.com/31187727/228332067-ca82fa6f-9c17-4fe0-9e51-77cf41b2cb8e.png)
 
 </div>
